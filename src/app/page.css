@@ -1,0 +1,5 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  margin: 2vh 5vw 2vh 5vw;
+}
