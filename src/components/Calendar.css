@@ -1,7 +1,6 @@
-.Calendar{
-    background-color: #fff;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    height: 84vh;
-    width: 90vw;
+.Calendar {
+  background-color: #f1f3f4;
+  border-radius: 5px;
+  height: 72vh;
+  width: 74vw;
 }
