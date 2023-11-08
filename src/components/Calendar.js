@@ -4,12 +4,12 @@ import Month from "./Month";
 import Week from "./Week";
 import Day from "./Day";
 
-export default function Calendar() {
-  const key = "Day";
+export default function Calendar({ Mode }) {
+  //const Mode = "Day";
   let Calendar_Mode;
 
   {
-    switch (key) {
+    switch (Mode) {
       case "Year":
         Calendar_Mode = <Year />;
         break;
